@@ -30,7 +30,8 @@ SECRET_KEY = 'django-insecure--*l34#208va%^76!6rh4fx3b4)4y^)b++yhsbda0jd+(127iu^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["primary-orsola-srkm-99af6064.koyeb.app", "127.0.0.1",
+                 "localhost", ]
 
 # Application definition
 
